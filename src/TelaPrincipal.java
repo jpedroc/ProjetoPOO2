@@ -79,7 +79,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
         jScrollPane1.setPreferredSize(new java.awt.Dimension(450, 500));
 
-        tblProdutos.setBackground(new java.awt.Color(255, 255, 255));
+        tblProdutos.setBackground(new java.awt.Color(204, 204, 204));
         tblProdutos.setForeground(new java.awt.Color(0, 0, 0));
         tblProdutos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
